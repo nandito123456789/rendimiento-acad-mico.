@@ -1,16 +1,18 @@
 rendimiento academico
-<h1>Mi título principal</h1>
-<p>Este es un párrafo de ejemplo que aparece en mi página web.</p>
-<p>Puedes escribir aquí todo lo que quieras mostrar.</p>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Mi Página Web</title>
-</head>
-<body>
-  <h1>Bienvenidos a mi página</h1>
-  <p>Este es mi primer sitio web publicado con GitHub Pages.</p>
-  <p>Estoy aprendiendo a programar y a compartir mis proyectos.</p>
-</body>
-</html>
+1. Organiza tu tiempo y tus materiales
+Planifica tus estudios: Usa una agenda o una aplicación para organizar tus horarios, tareas y exámenes.
+Prepara tus materiales: Ten a mano tus cuadernos, libros y útiles escolares para evitar distracciones buscando cosas durante clase.
+2. Mejora tu concentración
+Elimina distracciones: Apaga el celular o colócalo en modo silencioso durante las clases.
+Participa activamente: Haz preguntas, responde y toma notas para mantenerte atento y comprometido.
+3. Técnicas de estudio efectivas
+Estudia en sesiones cortas: Usa la técnica Pomodoro (25 minutos de estudio, 5 de descanso).
+Resumir y esquematizar: Resalta lo más importante y crea mapas conceptuales para comprender mejor.
+Practica: Resuelve ejercicios y problemas relacionados con lo aprendido.
+4. Cuida tu salud física y mental
+Duerme lo suficiente: El descanso es clave para un buen rendimiento.
+Aliméntate bien: Una dieta equilibrada mejora tu concentración y energía.
+Haz ejercicio: La actividad física ayuda a liberar estrés y mejorar la atención.
+5. Mantén una actitud positiva
+Confía en tus capacidades: La autoestima influye en tu motivación y desempeño.
+Establece metas realistas: Celebra tus logros, por pequeños que sean.
