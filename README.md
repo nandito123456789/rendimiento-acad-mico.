@@ -16,3 +16,4 @@ Haz ejercicio: La actividad física ayuda a liberar estrés y mejorar la atenci�
 5. Mantén una actitud positiva
 Confía en tus capacidades: La autoestima influye en tu motivación y desempeño.
 Establece metas realistas: Celebra tus logros, por pequeños que sean.
+te lo dice Félix 
