@@ -1,4 +1,5 @@
-rendimiento academico
+reforzamiento 
+academico
 1. Organiza tu tiempo y tus materiales
 Planifica tus estudios: Usa una agenda o una aplicación para organizar tus horarios, tareas y exámenes.
 Prepara tus materiales: Ten a mano tus cuadernos, libros y útiles escolares para evitar distracciones buscando cosas durante clase.
