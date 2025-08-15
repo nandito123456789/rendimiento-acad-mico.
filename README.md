@@ -16,4 +16,4 @@ Aliméntate bien: Una dieta equilibrada mejora tu concentración y energía.
 Haz ejercicio: La actividad física ayuda a liberar estrés y mejorar la atención.
 5. Mantén una actitud positiva
 Confía en tus capacidades: La autoestima influye en tu motivación y desempeño.
-Establece metas realistas: Celebra tus logros, por pequeños que sean.
+Establece metas realistas: Celebra tus logros, por pequeños que sean
